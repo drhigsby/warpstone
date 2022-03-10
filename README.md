@@ -1,6 +1,6 @@
 # warpstone
 
-![Warpstone](https://i.imgur.com/VU5uNVd.png)
+![Warpstone](https://cdn.discordapp.com/attachments/885296782534402048/951595475679739904/unknown.png)
 
 KLE: http://www.keyboard-layout-editor.com/#/gists/da9202c4c069f9cc00b6be29940ffcfc
 
