@@ -30,7 +30,7 @@ U 1 1 612E8389
 P 850 1200
 F 0 "D1" V 896 1130 50  0000 R CNN
 F 1 "D_Small" V 805 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 850 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 850 1200 50  0001 C CNN
 F 3 "~" V 850 1200 50  0001 C CNN
 	1    850  1200
 	0    -1   -1   0   
@@ -54,7 +54,7 @@ U 1 1 612E9265
 P 1350 1200
 F 0 "D2" V 1396 1130 50  0000 R CNN
 F 1 "D_Small" V 1305 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 1350 1200 50  0001 C CNN
 F 3 "~" V 1350 1200 50  0001 C CNN
 	1    1350 1200
 	0    -1   -1   0   
@@ -78,7 +78,7 @@ U 1 1 612EB5A5
 P 1850 1200
 F 0 "D3" V 1896 1130 50  0000 R CNN
 F 1 "D_Small" V 1805 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1850 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 1850 1200 50  0001 C CNN
 F 3 "~" V 1850 1200 50  0001 C CNN
 	1    1850 1200
 	0    -1   -1   0   
@@ -102,7 +102,7 @@ U 1 1 612EB5B2
 P 2350 1200
 F 0 "D4" V 2396 1130 50  0000 R CNN
 F 1 "D_Small" V 2305 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2350 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 2350 1200 50  0001 C CNN
 F 3 "~" V 2350 1200 50  0001 C CNN
 	1    2350 1200
 	0    -1   -1   0   
@@ -126,7 +126,7 @@ U 1 1 612EC219
 P 2850 1200
 F 0 "D5" V 2896 1130 50  0000 R CNN
 F 1 "D_Small" V 2805 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2850 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 2850 1200 50  0001 C CNN
 F 3 "~" V 2850 1200 50  0001 C CNN
 	1    2850 1200
 	0    -1   -1   0   
@@ -150,7 +150,7 @@ U 1 1 612EC226
 P 3350 1200
 F 0 "D6" V 3396 1130 50  0000 R CNN
 F 1 "D_Small" V 3305 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3350 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 3350 1200 50  0001 C CNN
 F 3 "~" V 3350 1200 50  0001 C CNN
 	1    3350 1200
 	0    -1   -1   0   
@@ -174,7 +174,7 @@ U 1 1 612EEA91
 P 3850 1200
 F 0 "D7" V 3896 1130 50  0000 R CNN
 F 1 "D_Small" V 3805 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 3850 1200 50  0001 C CNN
 F 3 "~" V 3850 1200 50  0001 C CNN
 	1    3850 1200
 	0    -1   -1   0   
@@ -198,7 +198,7 @@ U 1 1 612EEA9E
 P 4350 1200
 F 0 "D8" V 4396 1130 50  0000 R CNN
 F 1 "D_Small" V 4305 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4350 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 4350 1200 50  0001 C CNN
 F 3 "~" V 4350 1200 50  0001 C CNN
 	1    4350 1200
 	0    -1   -1   0   
@@ -222,7 +222,7 @@ U 1 1 612EF611
 P 4850 1200
 F 0 "D9" V 4896 1130 50  0000 R CNN
 F 1 "D_Small" V 4805 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4850 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 4850 1200 50  0001 C CNN
 F 3 "~" V 4850 1200 50  0001 C CNN
 	1    4850 1200
 	0    -1   -1   0   
@@ -246,7 +246,7 @@ U 1 1 612EF61E
 P 5350 1200
 F 0 "D10" V 5396 1130 50  0000 R CNN
 F 1 "D_Small" V 5305 1130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5350 1200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 5350 1200 50  0001 C CNN
 F 3 "~" V 5350 1200 50  0001 C CNN
 	1    5350 1200
 	0    -1   -1   0   
@@ -270,7 +270,7 @@ U 1 1 612F7C2C
 P 850 2200
 F 0 "D11" V 896 2130 50  0000 R CNN
 F 1 "D_Small" V 805 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 850 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 850 2200 50  0001 C CNN
 F 3 "~" V 850 2200 50  0001 C CNN
 	1    850  2200
 	0    -1   -1   0   
@@ -294,7 +294,7 @@ U 1 1 612F7C39
 P 1350 2200
 F 0 "D12" V 1396 2130 50  0000 R CNN
 F 1 "D_Small" V 1305 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 1350 2200 50  0001 C CNN
 F 3 "~" V 1350 2200 50  0001 C CNN
 	1    1350 2200
 	0    -1   -1   0   
@@ -318,7 +318,7 @@ U 1 1 612F7C46
 P 1850 2200
 F 0 "D13" V 1896 2130 50  0000 R CNN
 F 1 "D_Small" V 1805 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1850 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 1850 2200 50  0001 C CNN
 F 3 "~" V 1850 2200 50  0001 C CNN
 	1    1850 2200
 	0    -1   -1   0   
@@ -342,7 +342,7 @@ U 1 1 612F7C53
 P 2350 2200
 F 0 "D14" V 2396 2130 50  0000 R CNN
 F 1 "D_Small" V 2305 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2350 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 2350 2200 50  0001 C CNN
 F 3 "~" V 2350 2200 50  0001 C CNN
 	1    2350 2200
 	0    -1   -1   0   
@@ -366,7 +366,7 @@ U 1 1 612F7C60
 P 2850 2200
 F 0 "D15" V 2896 2130 50  0000 R CNN
 F 1 "D_Small" V 2805 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2850 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 2850 2200 50  0001 C CNN
 F 3 "~" V 2850 2200 50  0001 C CNN
 	1    2850 2200
 	0    -1   -1   0   
@@ -390,7 +390,7 @@ U 1 1 612F7C6D
 P 3350 2200
 F 0 "D16" V 3396 2130 50  0000 R CNN
 F 1 "D_Small" V 3305 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3350 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 3350 2200 50  0001 C CNN
 F 3 "~" V 3350 2200 50  0001 C CNN
 	1    3350 2200
 	0    -1   -1   0   
@@ -414,7 +414,7 @@ U 1 1 612F7C7A
 P 3850 2200
 F 0 "D17" V 3896 2130 50  0000 R CNN
 F 1 "D_Small" V 3805 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 3850 2200 50  0001 C CNN
 F 3 "~" V 3850 2200 50  0001 C CNN
 	1    3850 2200
 	0    -1   -1   0   
@@ -438,7 +438,7 @@ U 1 1 612F7C87
 P 4350 2200
 F 0 "D18" V 4396 2130 50  0000 R CNN
 F 1 "D_Small" V 4305 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4350 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 4350 2200 50  0001 C CNN
 F 3 "~" V 4350 2200 50  0001 C CNN
 	1    4350 2200
 	0    -1   -1   0   
@@ -462,7 +462,7 @@ U 1 1 612F7C94
 P 4850 2200
 F 0 "D19" V 4896 2130 50  0000 R CNN
 F 1 "D_Small" V 4805 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4850 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 4850 2200 50  0001 C CNN
 F 3 "~" V 4850 2200 50  0001 C CNN
 	1    4850 2200
 	0    -1   -1   0   
@@ -486,7 +486,7 @@ U 1 1 612F7CA1
 P 5350 2200
 F 0 "D20" V 5396 2130 50  0000 R CNN
 F 1 "D_Small" V 5305 2130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5350 2200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 5350 2200 50  0001 C CNN
 F 3 "~" V 5350 2200 50  0001 C CNN
 	1    5350 2200
 	0    -1   -1   0   
@@ -510,7 +510,7 @@ U 1 1 613010FF
 P 850 3200
 F 0 "D21" V 896 3130 50  0000 R CNN
 F 1 "D_Small" V 805 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 850 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 850 3200 50  0001 C CNN
 F 3 "~" V 850 3200 50  0001 C CNN
 	1    850  3200
 	0    -1   -1   0   
@@ -534,7 +534,7 @@ U 1 1 6130110C
 P 1350 3200
 F 0 "D22" V 1396 3130 50  0000 R CNN
 F 1 "D_Small" V 1305 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 1350 3200 50  0001 C CNN
 F 3 "~" V 1350 3200 50  0001 C CNN
 	1    1350 3200
 	0    -1   -1   0   
@@ -558,7 +558,7 @@ U 1 1 61301119
 P 1850 3200
 F 0 "D23" V 1896 3130 50  0000 R CNN
 F 1 "D_Small" V 1805 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1850 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 1850 3200 50  0001 C CNN
 F 3 "~" V 1850 3200 50  0001 C CNN
 	1    1850 3200
 	0    -1   -1   0   
@@ -582,7 +582,7 @@ U 1 1 61301126
 P 2350 3200
 F 0 "D24" V 2396 3130 50  0000 R CNN
 F 1 "D_Small" V 2305 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2350 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 2350 3200 50  0001 C CNN
 F 3 "~" V 2350 3200 50  0001 C CNN
 	1    2350 3200
 	0    -1   -1   0   
@@ -606,7 +606,7 @@ U 1 1 61301133
 P 2850 3200
 F 0 "D25" V 2896 3130 50  0000 R CNN
 F 1 "D_Small" V 2805 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2850 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 2850 3200 50  0001 C CNN
 F 3 "~" V 2850 3200 50  0001 C CNN
 	1    2850 3200
 	0    -1   -1   0   
@@ -630,7 +630,7 @@ U 1 1 61301140
 P 3350 3200
 F 0 "D26" V 3396 3130 50  0000 R CNN
 F 1 "D_Small" V 3305 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3350 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 3350 3200 50  0001 C CNN
 F 3 "~" V 3350 3200 50  0001 C CNN
 	1    3350 3200
 	0    -1   -1   0   
@@ -654,7 +654,7 @@ U 1 1 6130114D
 P 3850 3200
 F 0 "D27" V 3896 3130 50  0000 R CNN
 F 1 "D_Small" V 3805 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 3850 3200 50  0001 C CNN
 F 3 "~" V 3850 3200 50  0001 C CNN
 	1    3850 3200
 	0    -1   -1   0   
@@ -678,7 +678,7 @@ U 1 1 6130115A
 P 4350 3200
 F 0 "D28" V 4396 3130 50  0000 R CNN
 F 1 "D_Small" V 4305 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4350 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 4350 3200 50  0001 C CNN
 F 3 "~" V 4350 3200 50  0001 C CNN
 	1    4350 3200
 	0    -1   -1   0   
@@ -702,7 +702,7 @@ U 1 1 61301167
 P 4850 3200
 F 0 "D29" V 4896 3130 50  0000 R CNN
 F 1 "D_Small" V 4805 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4850 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 4850 3200 50  0001 C CNN
 F 3 "~" V 4850 3200 50  0001 C CNN
 	1    4850 3200
 	0    -1   -1   0   
@@ -726,7 +726,7 @@ U 1 1 61301174
 P 5350 3200
 F 0 "D30" V 5396 3130 50  0000 R CNN
 F 1 "D_Small" V 5305 3130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5350 3200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 5350 3200 50  0001 C CNN
 F 3 "~" V 5350 3200 50  0001 C CNN
 	1    5350 3200
 	0    -1   -1   0   
@@ -750,7 +750,7 @@ U 1 1 6130818A
 P 1350 4200
 F 0 "D31" V 1396 4130 50  0000 R CNN
 F 1 "D_Small" V 1305 4130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 4200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 1350 4200 50  0001 C CNN
 F 3 "~" V 1350 4200 50  0001 C CNN
 	1    1350 4200
 	0    -1   -1   0   
@@ -774,7 +774,7 @@ U 1 1 61308197
 P 1850 4200
 F 0 "D32" V 1896 4130 50  0000 R CNN
 F 1 "D_Small" V 1805 4130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1850 4200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 1850 4200 50  0001 C CNN
 F 3 "~" V 1850 4200 50  0001 C CNN
 	1    1850 4200
 	0    -1   -1   0   
@@ -798,7 +798,7 @@ U 1 1 613081A4
 P 2350 4200
 F 0 "D33" V 2396 4130 50  0000 R CNN
 F 1 "D_Small" V 2305 4130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2350 4200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 2350 4200 50  0001 C CNN
 F 3 "~" V 2350 4200 50  0001 C CNN
 	1    2350 4200
 	0    -1   -1   0   
@@ -822,7 +822,7 @@ U 1 1 613081B1
 P 2850 4200
 F 0 "D34" V 2896 4130 50  0000 R CNN
 F 1 "D_Small" V 2805 4130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2850 4200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 2850 4200 50  0001 C CNN
 F 3 "~" V 2850 4200 50  0001 C CNN
 	1    2850 4200
 	0    -1   -1   0   
@@ -846,7 +846,7 @@ U 1 1 613081BE
 P 3350 4200
 F 0 "D35" V 3396 4130 50  0000 R CNN
 F 1 "D_Small" V 3305 4130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3350 4200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 3350 4200 50  0001 C CNN
 F 3 "~" V 3350 4200 50  0001 C CNN
 	1    3350 4200
 	0    -1   -1   0   
@@ -870,7 +870,7 @@ U 1 1 613081CB
 P 3850 4200
 F 0 "D36" V 3896 4130 50  0000 R CNN
 F 1 "D_Small" V 3805 4130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3850 4200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 3850 4200 50  0001 C CNN
 F 3 "~" V 3850 4200 50  0001 C CNN
 	1    3850 4200
 	0    -1   -1   0   
@@ -894,7 +894,7 @@ U 1 1 613081D8
 P 4350 4200
 F 0 "D37" V 4396 4130 50  0000 R CNN
 F 1 "D_Small" V 4305 4130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4350 4200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 4350 4200 50  0001 C CNN
 F 3 "~" V 4350 4200 50  0001 C CNN
 	1    4350 4200
 	0    -1   -1   0   
@@ -918,7 +918,7 @@ U 1 1 613081E5
 P 4850 4200
 F 0 "D38" V 4896 4130 50  0000 R CNN
 F 1 "D_Small" V 4805 4130 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4850 4200 50  0001 C CNN
+F 2 "Keebio-Parts:D_SOD123" V 4850 4200 50  0001 C CNN
 F 3 "~" V 4850 4200 50  0001 C CNN
 	1    4850 4200
 	0    -1   -1   0   
@@ -1335,29 +1335,29 @@ Text GLabel 6900 2050 0    50   Input ~ 0
 c10
 Text GLabel 6900 1950 0    50   Input ~ 0
 c9
-Text GLabel 6900 1850 0    50   Input ~ 0
+Text GLabel 8300 2050 2    50   Input ~ 0
 c8
-Text GLabel 6900 1750 0    50   Input ~ 0
+Text GLabel 8300 1950 2    50   Input ~ 0
 c7
-Text GLabel 6900 1650 0    50   Input ~ 0
+Text GLabel 8300 1850 2    50   Input ~ 0
 c6
-Text GLabel 6900 1550 0    50   Input ~ 0
+Text GLabel 8300 1750 2    50   Input ~ 0
 c5
-Text GLabel 6900 1450 0    50   Input ~ 0
+Text GLabel 8300 1650 2    50   Input ~ 0
 c4
-Text GLabel 6900 1350 0    50   Input ~ 0
+Text GLabel 8300 1550 2    50   Input ~ 0
 c3
-Text GLabel 6900 1050 0    47   Input ~ 0
+Text GLabel 8300 1350 2    47   Input ~ 0
 c1
-Text GLabel 6900 950  0    47   Input ~ 0
+Text GLabel 8300 1450 2    47   Input ~ 0
 c2
-Text GLabel 8300 2050 2    47   Input ~ 0
+Text GLabel 6900 1750 0    47   Input ~ 0
 r3
-Text GLabel 8300 1950 2    47   Input ~ 0
+Text GLabel 6900 1850 0    47   Input ~ 0
 r4
-Text GLabel 8300 1850 2    47   Input ~ 0
+Text GLabel 6900 1650 0    47   Input ~ 0
 r2
-Text GLabel 8300 1750 2    47   Input ~ 0
+Text GLabel 6900 1550 0    47   Input ~ 0
 r1
 Text GLabel 8300 950  2    47   Input ~ 0
 RAW
