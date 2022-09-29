@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
+%TF.CreationDate,2022-03-10T13:39:28-08:00*%
+%TF.ProjectId,warpstone - diode array,77617270-7374-46f6-9e65-202d2064696f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2022-03-10 13:39:28*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.100000X1.800000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,SW1*%
+X251881460Y-38818780D03*
+X251881460Y-32618780D03*
+X248181460Y-38818780D03*
+X248181460Y-32618780D03*
+%TD*%
+M02*
